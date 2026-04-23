@@ -10,4 +10,4 @@ jobs:
       pull-requests: write
     steps:
     - name: say-hello
-      run : echob "hello world"
+      run : echo "hello world"
